@@ -1,0 +1,6 @@
+
+argparse==1.4.0
+diffusers==0.16.1
+Pillow==9.5.0
+transformers==4.34.0
+torch>=2.0
